@@ -1,13 +1,12 @@
 # Data-Analysis-and-Visualization-in-Austin-B-Cycle-Bikes-Sharing-Program-Data
-Data Analysis and Visualization on the Austin B-Cycle Bikes Sharing Programa Dataset
 
-#Austin B-cycle
+<b>Austin B-cycle</b>
 
 Austin B-cycle is a public bike sharing program that rolled in to Austin in December 2013. The system is owned by the City of Austin and operated by the local 501c3 non-profit Bike Share of Austin. Austin B-cycle immediately broke national records for check outs during SXSW, making it one of the most successful bike-sharing programs in the country. Currently there are 76 B-cycle stations around downtown Austin. You can check their website here:
 
-#Analyzing and visualizing the Data
+<b>Analyzing and visualizing the Data</b>
 
-Before redefining the bike sharing program, we need to understand the data and extract meaningful insights and then make better decisions.
+The mail goal of this project is to analyze the data of thee the Austin B-Cycle Bikes Sharing Program such users' behavior to detect market trends.
 
 Let’s start by getting the official datasets…
 
